@@ -1,23 +1,22 @@
 
 <h2> Hi, I'm Birhane H. Tesfagergis! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 
-<p><em>Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<p><em>Data Analyst ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 [Linkedin Badge](www.linkedin.com/in/birhane-hites)
 
 
 
-### <img src="./pic/pic_latest.jpeg" width="50"> A little more about me...  
+### <img src="C:\Users\DELL\Downloads\Brex.jpeg" width="50"> A little more about me...  
 
 ```javascript
 const eliVillalejos = {
   lookingFor: "Full-stack web developer" || "Front-end developer"  ,
   pronouns: ["He", "his"],
-  code: [C#, PHP, ASP.NET MVC, PYTHON React, HTML/CSS, JAVASCRIPT, Bootstrap, 
-  Tailwind CSS],
+  code: [PYTHON, R, SQL, HTML/CSS, Mysql, MS SQL],
   askMeAbout: [football, cycling, food recipes, trip],
   challenge: "I am honing my C# asp.net skilss and picking up  React skills",
-  funFacts: ['I have 3 years of exprience as graduate assistant and software developer']
+  funFacts: ['I have 3 years of exprience as data analyst']
 }
 ```
 
