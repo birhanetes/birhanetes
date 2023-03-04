@@ -11,7 +11,7 @@
 
 ```javascript
 const eliVillalejos = {
-  lookingFor: "Full-stack web developer" || "Front-end developer"  ,
+  looking For: "Data Analytics"  ,
   pronouns: ["He", "his"],
   code: [PYTHON, R, SQL, HTML/CSS, Mysql, MS SQL],
   askMeAbout: [football, cycling, food recipes, trip],
