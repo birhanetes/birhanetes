@@ -3,11 +3,11 @@
 
 <p><em>Data Analyst ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
-[Linkedin]([www.linkedin.com/in/birhane-hites](https://www.linkedin.com/in/birhane-hites/))
+[Linkedin]([www.linkedin.com/in/birhane-hites](https://www.linkedin.com/in/birhane-hites))
 
 
 
-### <img src="C:\Users\DELL\Downloads\Brex.jpeg" width="50"> A little more about me...  
+
 
 
 
